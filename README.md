@@ -1,3 +1,6 @@
-# GAN
+# GAN  
 
-## Pro-GAN,PG-GAN,PGAN
+* DCGAN
+* WGAN
+* ProGAN,PGGAN,PGAN 
+* ... 
